@@ -6,21 +6,21 @@
   Description: Onepage Site Template
   Version: 1.0
 */
-
+@import url('https://fonts.googleapis.com/css?family=Pridi');
 /*************************
 *******Typography******
 **************************/
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Pridi', serif;
   font-size: 14px;
   line-height: 24px;
   color: #666;
-  background-color: #fff;
+  background-color: #fd6618;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  color: #fff;
 }
 
 h2 {
@@ -99,7 +99,7 @@ section {
 }
 
 .heading {
-  padding-bottom:90px;
+  padding-bottom:20px;
 }
 
 .preloader {
@@ -322,8 +322,8 @@ section {
 ********About CSS*******
 **************************/
 #about-us {
-  background-image: url(../images/about-bg.jpg);
-  padding: 60px 0;
+  background-image: url(../images/7-b.jpg);
+  
 }
 
 #about-us h2 {
@@ -859,7 +859,7 @@ section {
 }
 
 #contact-us {
-  background-image:url(../images/contact-bg.jpg);
+  background-image:url(../images/5.png);
   padding-bottom: 90px; 
 }
 
