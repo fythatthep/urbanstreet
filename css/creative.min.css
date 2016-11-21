@@ -58,7 +58,10 @@ p {
     background-color: #F05F40
 }
 
-
+.bg-pink {
+    background-color: #F05F40;
+    color: #fff
+}
 
 .bg-dark {
     background-color: #222;
