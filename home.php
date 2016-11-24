@@ -70,7 +70,7 @@
             <span class="icon-bar"></span>
           </button>
 
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="#">
             <img class="img-responsive" src="images/logo2.png" alt="logo">
           </a>
 
@@ -140,7 +140,7 @@
                   </div>
 
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port.php" ><i class="fa fa-link"></i></a></span>
                     <span class="folio-expand"><a href="images/menu/1.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
@@ -162,7 +162,7 @@
                     <p>ราคา 95 บาท</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port2.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port2.php" ><i class="fa fa-link"></i></a></span>
                     <span class="folio-expand"><a href="images/menu/2.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
@@ -184,7 +184,7 @@
                     <p>ราคา 119/139 บาท</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port3.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port3.php" ><i class="fa fa-link"></i></a></span>
                     <span class="folio-expand"><a href="images/menu/3.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
@@ -206,7 +206,7 @@
                     <p>ราคา 139 บาท</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port4.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port4.php" ><i class="fa fa-link"></i></a></span>
                     <span class="folio-expand"><a href="images/menu/4.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
@@ -229,7 +229,7 @@
                     <p>ราคา 599 บาท</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port5.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port5.php" ><i class="fa fa-link"></i></a></span>
                     <span class="folio-expand"><a href="images/menu/5.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
@@ -253,7 +253,7 @@
                     <p>ราคา 599 บาท</p>
                   </div>
                   <div class="folio-overview">
-                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port5.html" ><i class="fa fa-link"></i></a></span>
+                    <span class="folio-link"><a class="folio-read-more" href="#" data-single_url="/port/port5.php" ><i class="fa fa-link"></i></a></span>
                     <span class="folio-expand"><a href="images/menu/5.jpg" data-lightbox="portfolio"><i class="fa fa-search-plus"></i></a></span>
                   </div>
                 </div>
@@ -307,7 +307,7 @@
     <div class="footer-top wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
       <div class="container text-center">
         <div class="footer-logo">
-          <a href="index.html"><img class="img-responsive" src="images/logo2.png" alt=""></a>
+          <a href="#"><img class="img-responsive" src="images/logo2.png" alt=""></a>
         </div>
         <div class="social-icons">
           <ul>
