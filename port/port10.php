@@ -6,7 +6,7 @@
 			<div class="col-sm-9">
 				<div class="project-info">
 
-					<h2 style="color:black;">มอนสเตอร์เบอเกอร์ หมู / เนื้อ</h2>
+					<h2 style="color:black;">มอนสเตอร์เบอร์เกอร์ หมู / เนื้อ</h2>
 				  <p></p>
 				</div>
 			</div>

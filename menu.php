@@ -109,7 +109,7 @@
       <div class="overlay-content">
         <div class="overlay-text">
           <div class="folio-info">
-            <h3>เออเบิ้นเบอเกอร์ หมู / เนื้อ</h3>
+            <h3>เออเบิ้นเบอร์เกอร์ หมู / เนื้อ</h3>
             <p>ราคา 119 / 139 บาท</p>
           </div>
 
@@ -236,7 +236,7 @@
       <div class="overlay-content">
         <div class="overlay-text">
           <div class="folio-info">
-            <h3>มอนสเตอร์เบอเกอร์ หมู / เนื้อ</h3>
+            <h3>มอนสเตอร์เบอร์เกอร์ หมู / เนื้อ</h3>
             <p>ราคา 119 / 139 บาท</p>
           </div>
 
