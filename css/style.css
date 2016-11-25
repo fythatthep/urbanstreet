@@ -6,7 +6,7 @@ Master Stylesheet
 	Author:		 imransdesign.com
 	URL:		 http://imransdesign.com/
     Designed By: https://www.behance.net/poljakova
-	Version:	1.0	
+	Version:	1.0
 
 ---------------------------------------------------------------------------------*/
 
@@ -41,7 +41,7 @@ body .body {
 	-webkit-border-radius: 0 !important;
 	-moz-border-radius: 0 !important;
 }
-*:focus { 
+*:focus {
 	outline: none !important;
 	box-shadow: none !important;
 }
@@ -168,16 +168,16 @@ section {
 	transition: all 0.2s ease-in-out;
 }
 .navbar-default .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../images/logo2.png);
 }
 .navbar-shrink .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../images/logo2.png);
 }
 .navbar-transparent .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../images/logo2.png);
 }
 .navbar-inverse .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../images/logo2.png);
 }
 
 /* Navbar links */
@@ -539,7 +539,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	z-index: 5;
 	margin-bottom:30px;
 	overflow:hidden;
-	
+
 }
 .portfolio_single_content:hover img{
 	 -o-transform: scale(2);
@@ -648,7 +648,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 /* ===== Begin team ===== */
 .team-item {
 	height: 120px;
-}	
+}
 .team-item .team-triangle {
 	width: 120px;
 	height: 120px;
@@ -1139,5 +1139,9 @@ p.subtitle {
 	-moz-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
 	transform: rotate(-45deg);
+}
+
+#map {
+  height: 350px;
 }
 /* ===== End buttons ===== */
