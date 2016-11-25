@@ -139,7 +139,7 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                            <h2>รู้จัก Urban Street</h2>
+                            <h2>รู้จัก URBAN STREET</h2>
 													  <div class="devider"></div>
 														<br><img src="images/iconpro.jpg" align="middle">
 
@@ -210,28 +210,272 @@
                                     <div class="portfolio_menu" id="filters">
                                         <ul>
                                             <li class="active_prot_menu"><a href="#porfolio_menu" data-filter="*">All</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".websites">Steak</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".webDesign" >Burger</a></li>
+                                            <li><a href="#porfolio_menu" data-filter=".Steak">Steak</a></li>
+                                            <li><a href="#porfolio_menu" data-filter=".Burger" >Burger</a></li>
                                             <li><a href="#porfolio_menu" data-filter=".Pasta">Pasta</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".GraphicDesign">Salad and Cheese</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".responsive">responsive</a></li>
+                                            <li><a href="#porfolio_menu" data-filter=".SaladCheese">Salad and Cheese</a></li>
+
                                         </ul>
                                     </div>
 
                                     <div class="portfolio_content">
 
+                                     <!--- steaK --->
+																			<div class="row"  id="portfolio">
+																					<div class="col-xs-12 col-sm-4 Steak">
+																							<div class="portfolio_single_content">
+																									<img src="menu/big1599.png" alt="title"/>
+																									<div>
+																											<a href="#">ถาดปราบเซียน</a>
+																											<span>ราคา 599 บาท</span>
+																									</div>
+																							</div>
+																					</div>
 
 
+																					<div class="row"  id="portfolio">
+																							<div class="col-xs-12 col-sm-4 Steak">
+																									<div class="portfolio_single_content">
+																											<img src="menu/big2599.png" alt="title"/>
+																											<div>
+																													<a href="#">ถาดพี่เบิ้ม</a>
+																													<span>ราคา 599 บาท</span>
+																											</div>
+																									</div>
+																							</div>
+
+
+																							<div class="row"  id="portfolio">
+																									<div class="col-xs-12 col-sm-4 Steak">
+																											<div class="portfolio_single_content">
+																													<img src="menu/beef139.png" alt="title"/>
+																													<div>
+																															<a href="#">สเต็กเนื้อสันนอก</a>
+																															<span>ราคา 139 บาท</span>
+																													</div>
+																											</div>
+																									</div>
+
+
+																									<div class="row"  id="portfolio">
+																											<div class="col-xs-12 col-sm-4 Steak">
+																													<div class="portfolio_single_content">
+																															<img src="menu/pork119.png" alt="title"/>
+																															<div>
+																																	<a href="#">สเต็กหมูคุโรบุตะ</a>
+																																	<span>ราคา 119 บาท</span>
+																															</div>
+																													</div>
+																											</div>
+
+
+																											<div class="row"  id="portfolio">
+																													<div class="col-xs-12 col-sm-4 Steak">
+																															<div class="portfolio_single_content">
+																																	<img src="menu/chick89.png" alt="title"/>
+																																	<div>
+																																			<a href="#">สเต็กไก่พริกไทยดำ</a>
+																																			<span>ราคา 89 บาท</span>
+																																	</div>
+																															</div>
+																													</div>
+
+
+																													<div class="row"  id="portfolio">
+																															<div class="col-xs-12 col-sm-4 Steak">
+																																	<div class="portfolio_single_content">
+																																			<img src="menu/germanleg299.png" alt="title"/>
+																																			<div>
+																																					<a href="#">ขาหมูเยอรมัน</a>
+																																					<span>ราคา 299 บาท</span>
+																																			</div>
+																																	</div>
+																															</div>
+
+																															<div class="row"  id="portfolio">
+																																	<div class="col-xs-12 col-sm-4 Steak">
+																																			<div class="portfolio_single_content">
+																																					<img src="menu/fish79.png" alt="title"/>
+																																					<div>
+																																							<a href="#">ฟิช & ชิฟ</a>
+																																							<span>ราคา 79 บาท</span>
+																																					</div>
+																																			</div>
+																																	</div>
+
+																																	<div class="row"  id="portfolio">
+																																			<div class="col-xs-12 col-sm-4 Steak">
+																																					<div class="portfolio_single_content">
+																																							<img src="menu/rib195.png" alt="title"/>
+																																							<div>
+																																									<a href="#">ซี่โครงหมู บาร์บีคิว</a>
+																																									<span>ราคา 195 บาท</span>
+																																							</div>
+																																					</div>
+																																			</div>
+
+
+
+
+
+
+																					<!--- steaK --->
+
+
+
+																					<!--- Burger --->
+																					<div class="row"  id="portfolio">
+																							<div class="col-xs-12 col-sm-4 Burger">
+																									<div class="portfolio_single_content">
+																											<img src="menu/spabecon119.png" alt="title"/>
+																											<div>
+																													<a href="#">เออเบิ้นเบอร์เกอร์ หมู / เนื้อ</a>
+																													<span>ราคา 119 / 139 บาท</span>
+																											</div>
+																									</div>
+																							</div>
+
+
+																							<div class="row"  id="portfolio">
+																									<div class="col-xs-12 col-sm-4 Burger">
+																											<div class="portfolio_single_content">
+																													<img src="menu/bur119_139.png" alt="title"/>
+																													<div>
+																															<a href="#">มอนสเตอร์เบอร์เกอร์ หมู / เนื้อ</a>
+																															<span>ราคา 119 / 139 บาท</span>
+																													</div>
+																											</div>
+																									</div>
+
+																					<!--- Burger --->
+
+
+
+
+																					<!--- Pasta --->
                                         <div class="row"  id="portfolio">
                                             <div class="col-xs-12 col-sm-4 Pasta">
                                                 <div class="portfolio_single_content">
                                                     <img src="menu/spabecon119.png" alt="title"/>
                                                     <div>
-                                                        <a href="#">Skull Awesome</a>
-                                                        <span>Subtitle</span>
+                                                        <a href="#">โปตุเนสต้า เบค่อน</a>
+                                                        <span>ราคา 119 บาท</span>
                                                     </div>
                                                 </div>
                                             </div>
+
+
+																						<div class="row"  id="portfolio">
+																								<div class="col-xs-12 col-sm-4 Pasta">
+																										<div class="portfolio_single_content">
+																												<img src="menu/spachili139.png" alt="title"/>
+																												<div>
+																														<a href="#">พาสต้าชิลีกุ้ง</a>
+																														<span>ราคา 139 บาท</span>
+																												</div>
+																										</div>
+																								</div>
+
+
+																								<div class="row"  id="portfolio">
+																										<div class="col-xs-12 col-sm-4 Pasta">
+																												<div class="portfolio_single_content">
+																														<img src="menu/spasea139.png" alt="title"/>
+																														<div>
+																																<a href="#">พาสต้าขี้เมา กุ้ง / ซีฟู้ด</a>
+																																<span>ราคา 139 บาท</span>
+																														</div>
+																												</div>
+																										</div>
+
+
+																										<div class="row"  id="portfolio">
+																												<div class="col-xs-12 col-sm-4 Pasta">
+																														<div class="portfolio_single_content">
+																																<img src="menu/spasal139.png" alt="title"/>
+																																<div>
+																																		<a href="#">พาสต้าแซลม่อนโรเช่</a>
+																																		<span>ราคา 139 บาท</span>
+																																</div>
+																														</div>
+																												</div>
+
+
+																												<div class="row"  id="portfolio">
+																														<div class="col-xs-12 col-sm-4 Pasta">
+																																<div class="portfolio_single_content">
+																																		<img src="menu/blackspa129.png" alt="title"/>
+																																		<div>
+																																				<a href="#">เฟสตูชินีเส้นดำไส้กรอกอิตาเลี่ยน</a>
+																																				<span>ราคา 129 บาท</span>
+																																		</div>
+																																</div>
+																														</div>
+																							<!--- Pasta --->
+
+
+
+																							<!--- salad--->
+																						<div class="row"  id="portfolio">
+																								<div class="col-xs-12 col-sm-4 SaladCheese">
+																										<div class="portfolio_single_content">
+																												<img src="menu/muk109.png" alt="title"/>
+																												<div>
+																														<a href="#">มักกะโรนีผักโขมอบชีส</a>
+																														<span>ราคา 109 บาท</span>
+																												</div>
+																										</div>
+																								</div>
+
+																								<div class="row"  id="portfolio">
+																										<div class="col-xs-12 col-sm-4 SaladCheese">
+																												<div class="portfolio_single_content">
+																														<img src="menu/shell139.png" alt="title"/>
+																														<div>
+																																<a href="#">หอยเชลอบชีส</a>
+																																<span>ราคา 139 บาท</span>
+																														</div>
+																												</div>
+																										</div>
+
+																										<div class="row"  id="portfolio">
+																												<div class="col-xs-12 col-sm-4 SaladCheese">
+																														<div class="portfolio_single_content">
+																																<img src="menu/newshell139.png" alt="title"/>
+																																<div>
+																																		<a href="#">หอยแมลงภู่อบชีส</a>
+																																		<span>ราคา 139 บาท</span>
+																																</div>
+																														</div>
+																												</div>
+
+
+																												<div class="row"  id="portfolio">
+																														<div class="col-xs-12 col-sm-4 SaladCheese">
+																																<div class="portfolio_single_content">
+																																		<img src="menu/chickche95.png" alt="title"/>
+																																		<div>
+																																				<a href="#">ไก่อบชีสไส้กรอก</a>
+																																				<span>ราคา 95 บาท</span>
+																																		</div>
+																																</div>
+																														</div>
+
+
+																														<div class="row"  id="portfolio">
+																																<div class="col-xs-12 col-sm-4 SaladCheese">
+																																		<div class="portfolio_single_content">
+																																				<img src="menu/prawn189.png" alt="title"/>
+																																				<div>
+																																						<a href="#">กุ้งอบชีส</a>
+																																						<span>ราคา 189 บาท</span>
+																																				</div>
+																																		</div>
+																																</div>
+
+
+																								<!--- salad--->
+
 
 
 
@@ -354,9 +598,7 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         	  <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s"></div>
-                            <h2>Contacts</h2></div>
-                            <div class="devider"></div>
-                            <p class="subtitle">เข้ามาร่วมอิ่มอร่อยได้ที่</p>
+                          
                 </div>
                 </div>
 
