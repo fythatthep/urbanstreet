@@ -598,7 +598,9 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         	  <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s"></div>
-                          
+                            <h2></h2></div>
+                            <div class="devider"></div>
+                            <p class="subtitle">่</p>
                 </div>
                 </div>
 
