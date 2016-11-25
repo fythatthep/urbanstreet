@@ -105,7 +105,7 @@
 
 						<div id="owl-intro-text" class="owl-carousel">
 							<div class="item">
-								<h1>Welcome to Urban Street</h1>
+								<h1>Welcome to <b style="color:#FE7700;">Urban Street</b></h1>
 								<p>สเต็กถาดปราบเซียน...สเต็กสายโหดของคนรุ่นใหม่</p>
                 <div class="extra-space-l"></div>
 								<a class ="btn btn-blank"  href="#porfolio-section" role="button">Menu</a>
@@ -139,7 +139,7 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                            <h2>รู้จัก UrbanStreet</h2>
+                            <h2>รู้จัก Urban Street</h2>
 													  <div class="devider"></div>
 														<br><img src="images/iconpro.jpg" align="middle">
 
