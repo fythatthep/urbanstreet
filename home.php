@@ -31,6 +31,8 @@
 
 		<!-- Skin CSS -->
 		<link rel="stylesheet" href="css/skin/cool-gray.css">
+
+
         <!-- <link rel="stylesheet" href="css/skin/ice-blue.css"> -->
         <!-- <link rel="stylesheet" href="css/skin/summer-orange.css"> -->
         <!-- <link rel="stylesheet" href="css/skin/fresh-lime.css"> -->
@@ -80,7 +82,7 @@
 
 
                             <li><a class="page-scroll" href="#porfolio-section">Menu</a></li>
-														<li><a class="page-scroll" href="#testimonial-section">Review</a></li>
+														<li><a class="page-scroll" href="#testimonial-section">Gallery</a></li>
                             <li><a class="page-scroll" href="#social-section"><div class="hidden-xs hidden-sm">Join us</div></a></li>
                             <li><a class="page-scroll" href="#contact-section">Contact</a></li>
                         </ul>
@@ -199,7 +201,7 @@
                                         <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
                                             <h2>Menu</h2>
                                             <div class="devider"></div>
-                                            <p class="subtitle">What we are proud of</p>
+
                                         </div>
                                     </div>
                                 </div>
@@ -207,97 +209,32 @@
                                 <div class="portfoloi_content_area" >
                                     <div class="portfolio_menu" id="filters">
                                         <ul>
-                                            <li class="active_prot_menu"><a href="#porfolio_menu" data-filter="*">all</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".websites">websites</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".webDesign" >web design</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".appsDevelopment">apps development</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".GraphicDesign">graphic design</a></li>
+                                            <li class="active_prot_menu"><a href="#porfolio_menu" data-filter="*">All</a></li>
+                                            <li><a href="#porfolio_menu" data-filter=".websites">Steak</a></li>
+                                            <li><a href="#porfolio_menu" data-filter=".webDesign" >Burger</a></li>
+                                            <li><a href="#porfolio_menu" data-filter=".Pasta">Pasta</a></li>
+                                            <li><a href="#porfolio_menu" data-filter=".GraphicDesign">Salad and Cheese</a></li>
                                             <li><a href="#porfolio_menu" data-filter=".responsive">responsive</a></li>
                                         </ul>
                                     </div>
+
                                     <div class="portfolio_content">
+
+
+
                                         <div class="row"  id="portfolio">
-                                            <div class="col-xs-12 col-sm-4 appsDevelopment">
+                                            <div class="col-xs-12 col-sm-4 Pasta">
                                                 <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p1.jpg" alt="title"/>
+                                                    <img src="menu/spabecon119.png" alt="title"/>
                                                     <div>
                                                         <a href="#">Skull Awesome</a>
                                                         <span>Subtitle</span>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="col-xs-12 col-sm-4 GraphicDesign">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p2.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Photo Frame</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 responsive">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p3.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Hand Shots</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 webDesign websites">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p4.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Night Abstract</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 appsDevelopment websites">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img//portfolio/p5.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Joy of Independence</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 GraphicDesign">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p6.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Night Crawlers</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 responsive">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p7.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Last Motel</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 GraphicDesign">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p8.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Dirk Road</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12 col-sm-4 websites">
-                                                <div class="portfolio_single_content">
-                                                    <img src="img/portfolio/p9.jpg" alt="title"/>
-                                                    <div>
-                                                        <a href="#">Old is Gold</a>
-                                                        <span>Subtitle</span>
-                                                    </div>
-                                                </div>
-                                            </div>
+
+
+
                                         </div>
                                     </div>
                                 </div>
@@ -320,44 +257,27 @@
 										<div class="page-header-wrapper">
 												<div class="container">
 														<div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-																<h2>Reviews</h2>
+																<h2>Photo Gallery</h2>
 																<div class="devider"></div>
-																<p class="subtitle">What people say about us</p>
 														</div>
 												</div>
 										</div>
-										<!-- End page header-->
-										<div class="container">
-												<div class="testimonial-inner center-block text-center">
-														<div id="owl-testimonial" class="owl-carousel">
-																<div class="item">
-																		<blockquote>
-																				<p>"This was my first experience with that team and outperformed my expectation! They know there stuff and I highly recommend them! A+++".</p>
-																				<footer><cite title="Source Title">Daryl Hodgeman</cite></footer>
-																		</blockquote>
-																</div>
-																<div class="item">
-																		<blockquote>
-																				<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-																				tempor incididunt ut labore et dolore magna aliqua."</p>
-																				<footer><cite title="Source Title">John Doe</cite></footer>
-																		</blockquote>
-																</div>
-																<div class="item">
-																		<blockquote>
-																				<p>"Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-																				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-																				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-																				proident, sunt in culpa qui officia deserunt mollit".</p>
-																				<footer><cite title="Source Title">John Doe</cite></footer>
-																		</blockquote>
-																</div>
-														</div>
-												</div>
-										</div>
+
+
+	                <!-- End page header-->
+					        <div class="hidden-xs hidden-sm"><?php include "gallery.php"; ?></div>
+
+
+									<div class="hidden-md hidden-lg"><?php include "gallerymobile.php"; ?></div>
+
+
 								</div>
 						</section>
 						<!-- End testimonials -->
+
+
+
+
 
 
 
@@ -430,15 +350,16 @@
             <div class="cover"></div>
 
                  <!-- Begin page header-->
+								<div class="hidden-xs hidden-sm">
                 <div class="page-header-wrapper">
                     <div class="container">
-                        	  <div class="hidden-xs hidden-sm"><div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s"></div>
-                            <div class="hidden-xs hidden-sm"><h2>Contacts</h2></div>
+                        	  <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s"></div>
+                            <h2>Contacts</h2></div>
                             <div class="devider"></div>
                             <p class="subtitle">เข้ามาร่วมอิ่มอร่อยได้ที่</p>
-                        </div>
-                    </div>
                 </div>
+                </div>
+
                 <!-- End page header-->
 
                 <div class="contact wow bounceInRight" data-wow-delay="0.4s">
@@ -448,15 +369,16 @@
                             <div class="col-sm-6">
                                 <div class="contact-info">
 
+
                                   <ul class="contact-address">
 			                            <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; 1115 Lat Phrao 101 Rd Bangkok , Thailand<br></li>
 			                            <li><i class="fa fa-phone"></i>&nbsp; 092 696 0007</li>
 			                            <li><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;"><i class="fa fa-facebook"></i></a><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;">&nbsp; @urbanstreet101</a></li>
 																	<br>
 																	<br>
-																	<li><b style="color:white;">&nbsp; ลาดจอดรถถาวร : อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน</b></li>
-																	<li><b style="color:white;">&nbsp; ลาดจอดรถชั่วคราว : อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส</b></li>
-																	<li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ที่จดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ที่จอดรถชั่วคราวไปก่อน **</b></li>
+																	<li><b style="color:white;">&nbsp; ลานจอดรถถาวร : อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน</b></li>
+																	<li><b style="color:white;">&nbsp; ลานจอดรถชั่วคราว : อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส</b></li>
+																	<li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
 
 
 			                        </ul>
