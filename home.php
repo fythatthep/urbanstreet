@@ -327,7 +327,7 @@
 																					<div class="row"  id="portfolio">
 																							<div class="col-xs-12 col-sm-4 Burger">
 																									<div class="portfolio_single_content">
-																											<img src="menu/spabecon119.png" alt="title"/>
+																											<img src="menu/bur119_139.png" alt="title"/>
 																											<div>
 																													<a href="#">เออเบิ้นเบอร์เกอร์ หมู / เนื้อ</a>
 																													<span>ราคา 119 / 139 บาท</span>
@@ -339,7 +339,7 @@
 																							<div class="row"  id="portfolio">
 																									<div class="col-xs-12 col-sm-4 Burger">
 																											<div class="portfolio_single_content">
-																													<img src="menu/bur119_139.png" alt="title"/>
+																													<img src="menu/monbur119_139.png" alt="title"/>
 																													<div>
 																															<a href="#">มอนสเตอร์เบอร์เกอร์ หมู / เนื้อ</a>
 																															<span>ราคา 119 / 139 บาท</span>
@@ -620,9 +620,13 @@
 			                            <li><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;"><i class="fa fa-facebook"></i></a><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;">&nbsp; @urbanstreet101</a></li>
 																	<br>
 																	<br>
-																	<li><b style="color:white;">&nbsp; ลานจอดรถถาวร : อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน</b></li>
-																	<li><b style="color:white;">&nbsp; ลานจอดรถชั่วคราว : อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส</b></li>
-																	<li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
+																	<li><b style="color:#FD6601;">&nbsp; ** ลานจอดรถ : อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน **</b></li>
+																	<?php
+																	//<li><b style="color::#FD6601;">&nbsp; ลานจอดรถชั่วคราว : อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส</b></li>
+
+
+																	 //<li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
+																	?>
 
 
 			                        </ul>
