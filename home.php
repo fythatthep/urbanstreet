@@ -590,7 +590,7 @@
 
 
             <!-- Begin contact section -->
-			<section id="contact-section" class="page text-white parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/map-bg.jpg);">
+			<section id="contact-section" class="page text-white parallax" data-stellar-background-ratio="0.5">
             <div class="cover"></div>
 
                  <!-- Begin page header-->
