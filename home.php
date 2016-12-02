@@ -4,7 +4,7 @@
 
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>Urban Street</title>
+		<title>URBAN STREET</title>
 		<link rel="shortcut icon" href="images/favicon.ico">
 		<meta name="description" content="Unika - Responsive One Page HTML5 Template">
 		<meta name="keywords" content="HTML5, Bootsrtrap, One Page, Responsive, Template, Portfolio" />
@@ -115,7 +115,7 @@
 
 							<div class="item">
 								<h1>Contact</h1><br><br>
-								<p><i class="fa fa-map-marker fa-lg"> 1115 Lat Phrao 101 Rd Bangkok , Thailand</i></p><br>
+								<p><i class="fa fa-map-marker fa-lg"> 1115 Lat Phrao 101 Rd Bangkok Opposite Soi 37 , Thailand</i></p><br>
 								<p><i class="fa fa-phone"></i>&nbsp; 092 696 0007<p>
 								<div class="extra-space-l"></div>
 								<a class="btn btn-blank"  href="#contact-section" role="button">View More</a>
@@ -139,13 +139,34 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                            <h2>รู้จัก URBAN STREET</h2>
+                            <h2><b style="color:#FD6601;">รู้จัก URBAN STREET</b></h2>
 													  <div class="devider"></div>
-														<br><img src="images/iconpro.jpg" align="middle">
 
-														<br><br><br>
 
-														<h4>ร้านนี้ไม่ได้มีดีแค่สเต็กเมนูอื่นท้าลอง ก็มีอีกดังนี้ สเต็ก / เบอร์เกอร์ / พาสต้า / ซีฟู้ด เชิญมาชวนชิมชวนชมกันได้นะครับ</h4>
+														<br><img src="others/origin.jpg" align="middle" align="middle">
+														<br><br><img src="others/o3.jpg" align="middle" align="middle">
+
+
+
+														<br><br><h5>"ต้นตำรับสเต็กถาดเจ้าแรกของประเทศไทย"
+														<br><h5>ความอร่อยแบบไม่มีที่สิ้นสุด....อร่อยไม่เหมือนใคร ในราคาสุดคุ้ม</h5>
+
+														<br>
+
+														<br><br><img src="others/o2.jpg" align="middle" align="middle">
+														<br><br><h5>ร้านนี้ก่อตั้งโดย "เชฟแซม"</h5>
+														<br><h5>เชฟผู้มีประสบการณ์ตรงจากออสเตรเลีย ซึ่งแน่นอนว่ารสชาติความอร่อยนั้นจะได้กลิ่นอายเหมือนได้ทานสเต็กจากออสเตรเลียเลยก็ว่าได้</h5>
+
+														<br>
+
+														<br><br><img src="others/14.jpg" align="middle" align="middle">
+
+
+														<br><br>
+
+														<br><h5>ร้านนี้ตั้งอยู่ที่ลาดพร้าว 101 ตรงข้ามซอย 37</h5>
+														<br><h5>นอกจากสเต็กถาดปราบเซียน เมนูอื่นท้าลองก็มีอีกดังนี้ เบอร์เกอร์ / พาสต้า / สลัด และ เมนูชีสต่างๆ เชิญมาท้าลองกันได้นะครับ</h5>
+														<br><h5><b style="color:#FD6601;">** ร้านเปิดเวลา 16.00 ถึง 24.00 น. **</b></h5>
                         </div>
                     </div>
                 </div>
@@ -160,16 +181,37 @@
 										<div class="page-header-wrapper">
 												<div class="container">
 														<div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-																<h4>รู้จัก UrbanStreet</h4>
+														  	<br><br>
+																<h4><b style="color:#FD6601;">รู้จักร้านเออเบิ้น สตรีท</b></h4>
 																<div class="devider"></div>
-																<br><img src="images/iconpro.jpg" align="middle" class="img-responsive">
 
-																<br><br><br>
+																	<br><img src="images/iconpro.jpg" align="middle" class="img-responsive">
 
-																<h6>ร้านนี้ไม่ได้มีดีแค่สเต็กเมนูอื่นท้าลอง ก็มีอีกดังนี้ สเต็ก / เบอร์เกอร์ / พาสต้า / ซีฟู้ด เชิญมาชวนชิมชวนชมกันได้นะครับ</h6>
+																	<br><img src="others/origin.jpg" align="middle" class="img-responsive">
+																	<br><img src="others/o3.jpg" align="middle" class="img-responsive">
+
+																	<br><h6>"ต้นตำรับสเต็กถาดเจ้าแรกของประเทศไทย"</h6>
+																	<br><h6>ความอร่อยแบบไม่มีที่สิ้นสุด....อร่อยไม่เหมือนใคร ในราคาสุดคุ้ม</h6>
+
+																	<br><img src="others/o2.jpg" align="middle" class="img-responsive">
+																	<br><h6>ร้านนี้ก่อตั้งโดย "เชฟแซม"</h6>
+																	<br><h6>เชฟผู้มีประสบการณ์ตรงจากออสเตรเลีย ซึ่งแน่นอนความอร่อยนั้นจะได้กลิ่นอายเหมือนได้ทานสเต็กจากออสเตรเลียเลยก็ว่าได้</h6>
+
+
+																	<br><img src="others/14.jpg" align="middle" class="img-responsive">
+
+
+
+																<br><br>
+
+
+																<h6>ร้านนี้ตั้งอยู่ที่ลาดพร้าว 101 ตรงข้ามซอย 37</h6>
+																<br><h6>นอกจากสเต็กถาดปราบเซียน เมนูอื่นท้าลองก็มีอีกดังนี้ เบอร์เกอร์ / พาสต้า / สลัด และ เมนูชีสต่างๆ เชิญมาท้าลองกันได้นะครับ</h6>
+																<br><h6><b style="color:#FD6601;">** ร้านเปิดเวลา 16.00 ถึง 24.00 น. **</b></h6>
 														</div>
 												</div>
 										</div>
+
 										<!-- End page header-->
 
              </section></div>
@@ -199,7 +241,7 @@
                                 <div class="page-header-wrapper">
                                     <div class="container">
                                         <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                                            <h2>Menu</h2>
+                                            <h2><b style="color:#FD6601;">Menu</b></h2>
                                             <div class="devider"></div>
 
                                         </div>
@@ -226,7 +268,7 @@
 																							<div class="portfolio_single_content">
 																									<img src="menu/big1599.png" alt="title"/>
 																									<div>
-																											<a href="#">ถาดปราบเซียน</a>
+																											<a>ถาดปราบเซียน</a>
 																											<span>ราคา 599 บาท</span>
 																									</div>
 																							</div>
@@ -238,7 +280,7 @@
 																									<div class="portfolio_single_content">
 																											<img src="menu/big2599.png" alt="title"/>
 																											<div>
-																													<a href="#">ถาดพี่เบิ้ม</a>
+																													<a>ถาดพี่เบิ้ม</a>
 																													<span>ราคา 599 บาท</span>
 																											</div>
 																									</div>
@@ -250,7 +292,7 @@
 																											<div class="portfolio_single_content">
 																													<img src="menu/beef139.png" alt="title"/>
 																													<div>
-																															<a href="#">สเต็กเนื้อสันนอก</a>
+																															<a>สเต็กเนื้อสันนอก</a>
 																															<span>ราคา 139 บาท</span>
 																													</div>
 																											</div>
@@ -262,7 +304,7 @@
 																													<div class="portfolio_single_content">
 																															<img src="menu/pork119.png" alt="title"/>
 																															<div>
-																																	<a href="#">สเต็กหมูคุโรบุตะ</a>
+																																	<a>สเต็กหมูคุโรบุตะ</a>
 																																	<span>ราคา 119 บาท</span>
 																															</div>
 																													</div>
@@ -274,7 +316,7 @@
 																															<div class="portfolio_single_content">
 																																	<img src="menu/chick89.png" alt="title"/>
 																																	<div>
-																																			<a href="#">สเต็กไก่พริกไทยดำ</a>
+																																			<a>สเต็กไก่พริกไทยดำ</a>
 																																			<span>ราคา 89 บาท</span>
 																																	</div>
 																															</div>
@@ -286,7 +328,7 @@
 																																	<div class="portfolio_single_content">
 																																			<img src="menu/germanleg299.png" alt="title"/>
 																																			<div>
-																																					<a href="#">ขาหมูเยอรมัน</a>
+																																					<a>ขาหมูเยอรมัน</a>
 																																					<span>ราคา 299 บาท</span>
 																																			</div>
 																																	</div>
@@ -297,7 +339,7 @@
 																																			<div class="portfolio_single_content">
 																																					<img src="menu/fish79.png" alt="title"/>
 																																					<div>
-																																							<a href="#">ฟิช & ชิฟ</a>
+																																							<a>ฟิช & ชิฟ</a>
 																																							<span>ราคา 79 บาท</span>
 																																					</div>
 																																			</div>
@@ -308,7 +350,7 @@
 																																					<div class="portfolio_single_content">
 																																							<img src="menu/rib195.png" alt="title"/>
 																																							<div>
-																																									<a href="#">ซี่โครงหมู บาร์บีคิว</a>
+																																									<a>ซี่โครงหมู บาร์บีคิว</a>
 																																									<span>ราคา 195 บาท</span>
 																																							</div>
 																																					</div>
@@ -329,7 +371,7 @@
 																									<div class="portfolio_single_content">
 																											<img src="menu/bur119_139.png" alt="title"/>
 																											<div>
-																													<a href="#">เออเบิ้นเบอร์เกอร์ หมู / เนื้อ</a>
+																													<a>เออเบิ้นเบอร์เกอร์ หมู / เนื้อ</a>
 																													<span>ราคา 119 / 139 บาท</span>
 																											</div>
 																									</div>
@@ -341,7 +383,7 @@
 																											<div class="portfolio_single_content">
 																													<img src="menu/monbur119_139.png" alt="title"/>
 																													<div>
-																															<a href="#">มอนสเตอร์เบอร์เกอร์ หมู / เนื้อ</a>
+																															<a>มอนสเตอร์เบอร์เกอร์ หมู / เนื้อ</a>
 																															<span>ราคา 119 / 139 บาท</span>
 																													</div>
 																											</div>
@@ -358,7 +400,7 @@
                                                 <div class="portfolio_single_content">
                                                     <img src="menu/spabecon119.png" alt="title"/>
                                                     <div>
-                                                        <a href="#">โปตุเนสต้า เบค่อน</a>
+                                                        <a>โปตุเนสต้า เบค่อน</a>
                                                         <span>ราคา 119 บาท</span>
                                                     </div>
                                                 </div>
@@ -370,7 +412,7 @@
 																										<div class="portfolio_single_content">
 																												<img src="menu/spachili139.png" alt="title"/>
 																												<div>
-																														<a href="#">พาสต้าชิลีกุ้ง</a>
+																														<a>พาสต้าชิลีกุ้ง</a>
 																														<span>ราคา 139 บาท</span>
 																												</div>
 																										</div>
@@ -382,7 +424,7 @@
 																												<div class="portfolio_single_content">
 																														<img src="menu/spasea139.png" alt="title"/>
 																														<div>
-																																<a href="#">พาสต้าขี้เมา กุ้ง / ซีฟู้ด</a>
+																																<a>พาสต้าขี้เมา กุ้ง / ซีฟู้ด</a>
 																																<span>ราคา 139 บาท</span>
 																														</div>
 																												</div>
@@ -394,7 +436,7 @@
 																														<div class="portfolio_single_content">
 																																<img src="menu/spasal139.png" alt="title"/>
 																																<div>
-																																		<a href="#">พาสต้าแซลม่อนโรเช่</a>
+																																		<a>พาสต้าแซลม่อนโรเช่</a>
 																																		<span>ราคา 139 บาท</span>
 																																</div>
 																														</div>
@@ -406,7 +448,7 @@
 																																<div class="portfolio_single_content">
 																																		<img src="menu/blackspa129.png" alt="title"/>
 																																		<div>
-																																				<a href="#">เฟสตูชินีเส้นดำไส้กรอกอิตาเลี่ยน</a>
+																																				<a>เฟสตูชินีเส้นดำไส้กรอกอิตาเลี่ยน</a>
 																																				<span>ราคา 129 บาท</span>
 																																		</div>
 																																</div>
@@ -421,7 +463,7 @@
 																										<div class="portfolio_single_content">
 																												<img src="menu/muk109.png" alt="title"/>
 																												<div>
-																														<a href="#">มักกะโรนีผักโขมอบชีส</a>
+																														<a>มักกะโรนีผักโขมอบชีส</a>
 																														<span>ราคา 109 บาท</span>
 																												</div>
 																										</div>
@@ -432,7 +474,7 @@
 																												<div class="portfolio_single_content">
 																														<img src="menu/shell139.png" alt="title"/>
 																														<div>
-																																<a href="#">หอยเชลอบชีส</a>
+																																<a>หอยเชลอบชีส</a>
 																																<span>ราคา 139 บาท</span>
 																														</div>
 																												</div>
@@ -443,7 +485,7 @@
 																														<div class="portfolio_single_content">
 																																<img src="menu/newshell139.png" alt="title"/>
 																																<div>
-																																		<a href="#">หอยแมลงภู่อบชีส</a>
+																																		<a>หอยแมลงภู่อบชีส</a>
 																																		<span>ราคา 139 บาท</span>
 																																</div>
 																														</div>
@@ -455,7 +497,7 @@
 																																<div class="portfolio_single_content">
 																																		<img src="menu/chickche95.png" alt="title"/>
 																																		<div>
-																																				<a href="#">ไก่อบชีสไส้กรอก</a>
+																																				<a>ไก่อบชีสไส้กรอก</a>
 																																				<span>ราคา 95 บาท</span>
 																																		</div>
 																																</div>
@@ -467,11 +509,23 @@
 																																		<div class="portfolio_single_content">
 																																				<img src="menu/prawn189.png" alt="title"/>
 																																				<div>
-																																						<a href="#">กุ้งอบชีส</a>
+																																						<a>กุ้งอบชีส</a>
 																																						<span>ราคา 189 บาท</span>
 																																				</div>
 																																		</div>
 																																</div>
+
+
+																																<div class="row"  id="portfolio">
+																																		<div class="col-xs-12 col-sm-4 SaladCheese">
+																																				<div class="portfolio_single_content">
+																																						<img src="menu/sal89.png" alt="title"/>
+																																						<div>
+																																								<a>ยำแซ่บแซลม่อน</a>
+																																								<span>ราคา 89 บาท</span>
+																																						</div>
+																																				</div>
+																																		</div>
 
 
 																								<!--- salad--->
@@ -501,18 +555,23 @@
 										<div class="page-header-wrapper">
 												<div class="container">
 														<div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-																<h2>Photo Gallery</h2>
-																<div class="devider"></div>
+																<h2><b style="color:#FD6601;">Photo Gallery</b></h2>
+															  <div class="devider"></div>
 														</div>
 												</div>
 										</div>
 
 
-	                <!-- End page header-->
-					        <div class="hidden-xs hidden-sm"><?php include "gallery.php"; ?></div>
+	                <!-- End page header
 
 
-									<div class="hidden-md hidden-lg"><?php include "gallerymobile.php"; ?></div>
+
+									<?php
+												include "new_gallery.php";
+									?>
+
+
+
 
 
 								</div>
@@ -536,7 +595,7 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                            <h2>Join Us</h2>
+                            <h2><b style="color:#FD6601;">Join Us</b></h2>
                             <div class="devider"></div>
                         </div>
                     </div>
@@ -615,18 +674,22 @@
 
 
                                   <ul class="contact-address">
-			                            <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; 1115 Lat Phrao 101 Rd Bangkok , Thailand<br></li>
+			                            <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; 1115 Lat Phrao 101 Rd Bangkok Opposite Soi 37 , Thailand<br></li>
 			                            <li><i class="fa fa-phone"></i>&nbsp; 092 696 0007</li>
 			                            <li><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;"><i class="fa fa-facebook"></i></a><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;">&nbsp; @urbanstreet101</a></li>
 																	<br>
 																	<br>
-																	<li><b style="color:#FD6601;">&nbsp; ** ลานจอดรถ : อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน **</b></li>
-																	<?php
-																	//<li><b style="color::#FD6601;">&nbsp; ลานจอดรถชั่วคราว : อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส</b></li>
+																	<li><b style="color:white;">&nbsp; ลานจอดรถถาวร :  </b></li>
+																	<li><b style="color:white;">&nbsp; อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน </b></li><br>
+
+																	<li><b style="color::white;">&nbsp; ลานจอดรถชั่วคราว :</b></li>
+																	<li><b style="color::white;">&nbsp; อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส มีบริการรถกอล์ฟของทางลานจอดบริการรับส่งถึงร้าน</b></li><br>
 
 
-																	 //<li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
-																	?>
+																	 <li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
+
+
+
 
 
 			                        </ul>
@@ -667,7 +730,7 @@
 
                 <div class="footer">
                     <div class="container text-center wow fadeIn" data-wow-delay="0.4s">
-                        <p class="copyright">Copyright &copy; 2016 - Designed By <a href="#" class="theme-author">Feez & DKKs CE KMITL</a> &amp; Developed by <a href="#" class="theme-author">Feez</a></p>
+                        <p class="copyright">Copyright &copy; 2016 - Designed By <a href="http://www.ce.kmitl.ac.th/" class="theme-author">Notefeez & DKKs CE KMITL</a> &amp; Developed and Server Maintenance by <a href="#" class="theme-author">Notefeez</a></p>
                     </div>
                 </div>
 

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <title>Urban Street</title>
+  <title>URBAN STREET</title>
   <link rel="shortcut icon" href="images/favicon.ico">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -546,7 +546,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	 -webkit-transform: scale(2);
 	 -moz-transform: scale(2);
 	 -ms-transform: scale(2);
-	 transform: scale(2);
+	 transform: scale(1);
 }
 .portfolio_single_content img{
 	width: 100%;
@@ -585,8 +585,8 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	top:0;
 	left:0;
 	z-index:10;
-	width:100%;
-	height:100%;
+	width:50%;
+	height:30%;
 	text-align:center;
 	transform:scale(0);
 	transition:all .6s;
@@ -599,16 +599,16 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 .portfolio_single_content div a{
 	color: #FFFFFF;
 	display: block;
-	font-size: 18px;
+	font-size: 15px;
 	font-weight: bold;
-	margin-top: 40%;
+	margin-top: 10%;
 	padding-bottom: 10px;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 .portfolio_single_content div span{
 	color: #FFFFFF;
-	font-size: 14px;
+	font-size: 13px;
 	font-weight: normal;
 	margin: 0;
 	padding: 0;
