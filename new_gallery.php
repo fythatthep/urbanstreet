@@ -133,35 +133,109 @@
             </div>
 
             <div data-p="112.50" style="display: none;">
-                <img data-u="image" src="/others/1.jpg" />
+                <img data-u="image" src="/others/8.jpg" />
                 <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
             </div>
 
+
             <div data-p="112.50" style="display: none;">
-                <img data-u="image" src="/others/2.jpg" />
+                <img data-u="image" src="/others/01.jpg" />
                 <!--comment 1 <div data-u="caption" data-t="2" style="position:absolute;top:30px;left:-380px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">finger catchable right to left</div> -->
             </div>
 
-            <div data-p="112.50" style="display: none;">
-                <img data-u="image" src="/others/3.jpg" />
-                <!--comment 1 <div data-u="caption" data-t="3" style="position:absolute;top:30px;left:30px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">responsive, scale smoothly</div> -->
-            </div>
 
             <div data-p="112.50" style="display: none;">
-                <img data-u="image" src="/others/4.jpg" />
+                <img data-u="image" src="/others/7.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
+            </div>
+
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/1.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="2" style="position:absolute;top:30px;left:-380px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">finger catchable right to left</div> -->
+            </div>
+
+
+
+
+
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/3.jpg" />
                 <!--comment 1 <div data-u="caption" data-t="4" style="position:absolute;top:30px;left:30px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.6);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">image, text, and custom layers</div>  -->
             </div>
 
-            <!--comment 1 <a data-u="any" href="http://www.jssor.com" style="display:none">Image Slider</a> -->
+
+
+
+
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/2.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="3" style="position:absolute;top:30px;left:30px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">responsive, scale smoothly</div> -->
+            </div>
+
+
+
+
+            <!--- end เฮีย + ดารา -->
+
+
             <div data-p="112.50" style="display: none;">
                 <img data-u="image" src="/others/5.jpg" />
                 <!--comment 1 <div data-u="caption" data-t="5" style="position:absolute;top:30px;left:600px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">tons of transition type</div> -->
             </div>
 
 
+
+            <!--comment 1 <a data-u="any" href="http://www.jssor.com" style="display:none">Image Slider</a> -->
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/4.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="5" style="position:absolute;top:30px;left:600px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">tons of transition type</div> -->
+            </div>
+
+
             <div data-p="112.50" style="display: none;">
                 <img data-u="image" src="/others/6.jpg" />
-                <!--comment 1 <div data-u="caption" data-t="5" style="position:absolute;top:30px;left:600px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">tons of transition type</div> -->
+                <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
+            </div>
+
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/9.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
+            </div>
+
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/10.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
+            </div>
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/11.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
+            </div>
+
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/12.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
+            </div>
+
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/13.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
+            </div>
+
+
+
+
+
+            <div data-p="112.50" style="display: none;">
+                <img data-u="image" src="/others/15.jpg" />
+                <!--comment 1 <div data-u="caption" data-t="1" data-3d="1" style="position:absolute;top:-50px;left:125px;width:350px;height:30px;z-index:0;background-color:rgba(235,81,0,0.5);font-size:20px;color:#ffffff;line-height:30px;text-align:center;">time lined layer animation</div> -->
             </div>
 
 
