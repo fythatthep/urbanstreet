@@ -160,7 +160,8 @@
 										<div class="page-header-wrapper">
 												<div class="container">
 														<div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-																<h4>รู้จัก UrbanStreet</h4>
+														  	<br><br>
+																<h4><b style="color:#FD6601;">รู้จัก URBAN STREET</b></h4>
 																<div class="devider"></div>
 																<br><img src="images/iconpro.jpg" align="middle" class="img-responsive">
 
@@ -199,7 +200,7 @@
                                 <div class="page-header-wrapper">
                                     <div class="container">
                                         <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                                            <h2>Menu</h2>
+                                            <h2><b style="color:#FD6601;">Menu</b></h2>
                                             <div class="devider"></div>
 
                                         </div>
@@ -513,18 +514,23 @@
 										<div class="page-header-wrapper">
 												<div class="container">
 														<div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-																<h2>Photo Gallery</h2>
-																<div class="devider"></div>
+																<h2><b style="color:#FD6601;">Photo Gallery</b></h2>
+															  <div class="devider"></div>
 														</div>
 												</div>
 										</div>
 
 
-	                <!-- End page header-->
-					        <div class="hidden-xs hidden-sm"><?php include "gallery.php"; ?></div>
+	                <!-- End page header
 
 
-									<div class="hidden-md hidden-lg"><?php include "gallerymobile.php"; ?></div>
+
+									<?php
+												include "new_gallery.php";
+									?>
+
+
+
 
 
 								</div>
@@ -548,7 +554,7 @@
                 <div class="page-header-wrapper">
                     <div class="container">
                         <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                            <h2>Join Us</h2>
+                            <h2><b style="color:#FD6601;">Join Us</b></h2>
                             <div class="devider"></div>
                         </div>
                     </div>
@@ -632,13 +638,15 @@
 			                            <li><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;"><i class="fa fa-facebook"></i></a><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;">&nbsp; @urbanstreet101</a></li>
 																	<br>
 																	<br>
-																	<li><b style="color:#FD6601;">&nbsp; ** ลานจอดรถ : อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน **</b></li>
-																	<?php
-																	//<li><b style="color::#FD6601;">&nbsp; ลานจอดรถชั่วคราว : อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส</b></li>
+																	<li><b style="color:white;">&nbsp;    ลานจอดรถ : อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน **</b></li>
+
+																	<li><b style="color::white;">&nbsp; ลานจอดรถชั่วคราว : อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส มีบริการรถกอล์ฟของทางลานจอดบริการรับส่งถึงร้าน</b></li>
 
 
-																	 //<li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
-																	?>
+																	 <li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
+
+
+
 
 
 			                        </ul>
