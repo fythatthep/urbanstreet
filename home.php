@@ -675,6 +675,7 @@
 
                                   <ul class="contact-address">
 			                            <li><i class="fa fa-map-marker fa-lg"></i>&nbsp; 1115 Lat Phrao 101 Rd Bangkok Opposite Soi 37 , Thailand<br></li>
+																	<li><i class="fa fa-clock-o"></i>&nbsp; Hours 4:00PM - 12:00AM<br></li>
 			                            <li><i class="fa fa-phone"></i>&nbsp; 092 696 0007</li>
 			                            <li><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;"><i class="fa fa-facebook"></i></a><a href="https://www.facebook.com/urbanstreet101/?fref=ts" style="color:white;">&nbsp; @urbanstreet101</a></li>
 																	<br>
@@ -682,11 +683,22 @@
 																	<li><b style="color:white;">&nbsp; ลานจอดรถถาวร :  </b></li>
 																	<li><b style="color:white;">&nbsp; อยู่ปากซอย 37 ฝั่งตรงข้ามร้าน </b></li><br>
 
-																	<li><b style="color::white;">&nbsp; ลานจอดรถชั่วคราว :</b></li>
-																	<li><b style="color::white;">&nbsp; อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส มีบริการรถกอล์ฟของทางลานจอดบริการรับส่งถึงร้าน</b></li><br>
+																	<li><b style="color:white;">&nbsp; ลานจอดรถชั่วคราว :</b></li>
+																	<li><b style="color:white;">&nbsp; อยู่ในซอย 39 ให้จอดรถหลังฟิตเนส มีบริการรถกอล์ฟของทางลานจอดบริการรับส่งถึงร้าน</b></li><br>
 
 
 																	 <li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
+
+
+																	 <br>
+
+																	 <li><b style="color:white;">
+
+																		 <?php
+																					 include "web_count.php";
+																		 ?>
+
+																	 </b></li>
 
 
 
