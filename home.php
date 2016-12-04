@@ -68,7 +68,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                       </button>
-                      <a class="navbar-brand page-scroll" href="home.php">Unika</a>
+                      <a class="navbar-brand page-scroll" href="home.php"></a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -83,6 +83,7 @@
 
                             <li><a class="page-scroll" href="#porfolio-section">Menu</a></li>
 														<li><a class="page-scroll" href="#testimonial-section">Gallery</a></li>
+														<li><a class="page-scroll" href="#videos-section">Videos</a></li>
                             <li><a class="page-scroll" href="#social-section"><div class="hidden-xs hidden-sm">Join us</div></a></li>
                             <li><a class="page-scroll" href="#contact-section">Contact</a></li>
                         </ul>
@@ -157,6 +158,14 @@
 														<br><br><h5>ร้านนี้ก่อตั้งโดย "เชฟแซม"</h5>
 														<br><h5>เชฟผู้มีประสบการณ์ตรงจากออสเตรเลีย ซึ่งแน่นอนว่ารสชาติความอร่อยนั้นจะได้กลิ่นอายเหมือนได้ทานสเต็กจากออสเตรเลียเลยก็ว่าได้</h5>
 
+														<br><h6><i>
+
+															" we pride ourselves in providing you with the ultimate dining experience guaranteed.
+															We serve the freshest from the sea and the meanest burgers in Bangkok.
+															Our skilled chefs have all been trained by our leading Thai/Australian chef and are ready to impress you with their culinary delights. "
+
+														</h6></i>
+
 														<br>
 
 														<br><br><img src="others/14.jpg" align="middle" align="middle">
@@ -193,9 +202,17 @@
 																	<br><h6>"ต้นตำรับสเต็กถาดเจ้าแรกของประเทศไทย"</h6>
 																	<br><h6>ความอร่อยแบบไม่มีที่สิ้นสุด....อร่อยไม่เหมือนใคร ในราคาสุดคุ้ม</h6>
 
+
 																	<br><img src="others/o2.jpg" align="middle" class="img-responsive">
 																	<br><h6>ร้านนี้ก่อตั้งโดย "เชฟแซม"</h6>
 																	<br><h6>เชฟผู้มีประสบการณ์ตรงจากออสเตรเลีย ซึ่งแน่นอนความอร่อยนั้นจะได้กลิ่นอายเหมือนได้ทานสเต็กจากออสเตรเลียเลยก็ว่าได้</h6>
+																	<br><h6><i>
+
+																		" we pride ourselves in providing you with the ultimate dining experience guaranteed.
+																		We serve the freshest from the sea and the meanest burgers in Bangkok.
+																		Our skilled chefs have all been trained by our leading Thai/Australian chef and are ready to impress you with their culinary delights. "
+
+										 							</h6></i>
 
 
 																	<br><img src="others/14.jpg" align="middle" class="img-responsive">
@@ -266,7 +283,7 @@
 																			<div class="row"  id="portfolio">
 																					<div class="col-xs-12 col-sm-4 Steak">
 																							<div class="portfolio_single_content">
-																									<img src="menu/big1599.png" alt="title"/>
+																									<img src="menu/big1599.jpg" alt="title"/>
 																									<div>
 																											<a>ถาดปราบเซียน</a>
 																											<span>ราคา 599 บาท</span>
@@ -278,7 +295,7 @@
 																					<div class="row"  id="portfolio">
 																							<div class="col-xs-12 col-sm-4 Steak">
 																									<div class="portfolio_single_content">
-																											<img src="menu/big2599.png" alt="title"/>
+																											<img src="menu/big2599.jpg" alt="title"/>
 																											<div>
 																													<a>ถาดพี่เบิ้ม</a>
 																													<span>ราคา 599 บาท</span>
@@ -290,7 +307,7 @@
 																							<div class="row"  id="portfolio">
 																									<div class="col-xs-12 col-sm-4 Steak">
 																											<div class="portfolio_single_content">
-																													<img src="menu/beef139.png" alt="title"/>
+																													<img src="menu/beef139.jpg" alt="title"/>
 																													<div>
 																															<a>สเต็กเนื้อสันนอก</a>
 																															<span>ราคา 139 บาท</span>
@@ -302,7 +319,7 @@
 																									<div class="row"  id="portfolio">
 																											<div class="col-xs-12 col-sm-4 Steak">
 																													<div class="portfolio_single_content">
-																															<img src="menu/pork119.png" alt="title"/>
+																															<img src="menu/pork119.jpg" alt="title"/>
 																															<div>
 																																	<a>สเต็กหมูคุโรบุตะ</a>
 																																	<span>ราคา 119 บาท</span>
@@ -314,7 +331,7 @@
 																											<div class="row"  id="portfolio">
 																													<div class="col-xs-12 col-sm-4 Steak">
 																															<div class="portfolio_single_content">
-																																	<img src="menu/chick89.png" alt="title"/>
+																																	<img src="menu/chick89.jpg" alt="title"/>
 																																	<div>
 																																			<a>สเต็กไก่พริกไทยดำ</a>
 																																			<span>ราคา 89 บาท</span>
@@ -326,7 +343,7 @@
 																													<div class="row"  id="portfolio">
 																															<div class="col-xs-12 col-sm-4 Steak">
 																																	<div class="portfolio_single_content">
-																																			<img src="menu/germanleg299.png" alt="title"/>
+																																			<img src="menu/germanleg299.jpg" alt="title"/>
 																																			<div>
 																																					<a>ขาหมูเยอรมัน</a>
 																																					<span>ราคา 299 บาท</span>
@@ -337,7 +354,7 @@
 																															<div class="row"  id="portfolio">
 																																	<div class="col-xs-12 col-sm-4 Steak">
 																																			<div class="portfolio_single_content">
-																																					<img src="menu/fish79.png" alt="title"/>
+																																					<img src="menu/fish79.jpg" alt="title"/>
 																																					<div>
 																																							<a>ฟิช & ชิฟ</a>
 																																							<span>ราคา 79 บาท</span>
@@ -348,7 +365,7 @@
 																																	<div class="row"  id="portfolio">
 																																			<div class="col-xs-12 col-sm-4 Steak">
 																																					<div class="portfolio_single_content">
-																																							<img src="menu/rib195.png" alt="title"/>
+																																							<img src="menu/rib195.jpg" alt="title"/>
 																																							<div>
 																																									<a>ซี่โครงหมู บาร์บีคิว</a>
 																																									<span>ราคา 195 บาท</span>
@@ -369,7 +386,7 @@
 																					<div class="row"  id="portfolio">
 																							<div class="col-xs-12 col-sm-4 Burger">
 																									<div class="portfolio_single_content">
-																											<img src="menu/bur119_139.png" alt="title"/>
+																											<img src="menu/bur119_139.jpg" alt="title"/>
 																											<div>
 																													<a>เออเบิ้นเบอร์เกอร์ หมู / เนื้อ</a>
 																													<span>ราคา 119 / 139 บาท</span>
@@ -381,7 +398,7 @@
 																							<div class="row"  id="portfolio">
 																									<div class="col-xs-12 col-sm-4 Burger">
 																											<div class="portfolio_single_content">
-																													<img src="menu/monbur119_139.png" alt="title"/>
+																													<img src="menu/monbur119_139.jpg" alt="title"/>
 																													<div>
 																															<a>มอนสเตอร์เบอร์เกอร์ หมู / เนื้อ</a>
 																															<span>ราคา 119 / 139 บาท</span>
@@ -398,7 +415,7 @@
                                         <div class="row"  id="portfolio">
                                             <div class="col-xs-12 col-sm-4 Pasta">
                                                 <div class="portfolio_single_content">
-                                                    <img src="menu/spabecon119.png" alt="title"/>
+                                                    <img src="menu/spabecon119.jpg" alt="title"/>
                                                     <div>
                                                         <a>โปตุเนสต้า เบค่อน</a>
                                                         <span>ราคา 119 บาท</span>
@@ -410,7 +427,7 @@
 																						<div class="row"  id="portfolio">
 																								<div class="col-xs-12 col-sm-4 Pasta">
 																										<div class="portfolio_single_content">
-																												<img src="menu/spachili139.png" alt="title"/>
+																												<img src="menu/spachili139.jpg" alt="title"/>
 																												<div>
 																														<a>พาสต้าชิลีกุ้ง</a>
 																														<span>ราคา 139 บาท</span>
@@ -422,7 +439,7 @@
 																								<div class="row"  id="portfolio">
 																										<div class="col-xs-12 col-sm-4 Pasta">
 																												<div class="portfolio_single_content">
-																														<img src="menu/spasea139.png" alt="title"/>
+																														<img src="menu/spasea139.jpg" alt="title"/>
 																														<div>
 																																<a>พาสต้าขี้เมา กุ้ง / ซีฟู้ด</a>
 																																<span>ราคา 139 บาท</span>
@@ -434,7 +451,7 @@
 																										<div class="row"  id="portfolio">
 																												<div class="col-xs-12 col-sm-4 Pasta">
 																														<div class="portfolio_single_content">
-																																<img src="menu/spasal139.png" alt="title"/>
+																																<img src="menu/spasal139.jpg" alt="title"/>
 																																<div>
 																																		<a>พาสต้าแซลม่อนโรเช่</a>
 																																		<span>ราคา 139 บาท</span>
@@ -446,7 +463,7 @@
 																												<div class="row"  id="portfolio">
 																														<div class="col-xs-12 col-sm-4 Pasta">
 																																<div class="portfolio_single_content">
-																																		<img src="menu/blackspa129.png" alt="title"/>
+																																		<img src="menu/blackspa129.jpg" alt="title"/>
 																																		<div>
 																																				<a>เฟสตูชินีเส้นดำไส้กรอกอิตาเลี่ยน</a>
 																																				<span>ราคา 129 บาท</span>
@@ -461,7 +478,7 @@
 																						<div class="row"  id="portfolio">
 																								<div class="col-xs-12 col-sm-4 SaladCheese">
 																										<div class="portfolio_single_content">
-																												<img src="menu/muk109.png" alt="title"/>
+																												<img src="menu/muk109.jpg" alt="title"/>
 																												<div>
 																														<a>มักกะโรนีผักโขมอบชีส</a>
 																														<span>ราคา 109 บาท</span>
@@ -472,7 +489,7 @@
 																								<div class="row"  id="portfolio">
 																										<div class="col-xs-12 col-sm-4 SaladCheese">
 																												<div class="portfolio_single_content">
-																														<img src="menu/shell139.png" alt="title"/>
+																														<img src="menu/shell139.jpg" alt="title"/>
 																														<div>
 																																<a>หอยเชลอบชีส</a>
 																																<span>ราคา 139 บาท</span>
@@ -483,7 +500,7 @@
 																										<div class="row"  id="portfolio">
 																												<div class="col-xs-12 col-sm-4 SaladCheese">
 																														<div class="portfolio_single_content">
-																																<img src="menu/newshell139.png" alt="title"/>
+																																<img src="menu/newshell139.jpg" alt="title"/>
 																																<div>
 																																		<a>หอยแมลงภู่อบชีส</a>
 																																		<span>ราคา 139 บาท</span>
@@ -495,7 +512,7 @@
 																												<div class="row"  id="portfolio">
 																														<div class="col-xs-12 col-sm-4 SaladCheese">
 																																<div class="portfolio_single_content">
-																																		<img src="menu/chickche95.png" alt="title"/>
+																																		<img src="menu/chickche95.jpg" alt="title"/>
 																																		<div>
 																																				<a>ไก่อบชีสไส้กรอก</a>
 																																				<span>ราคา 95 บาท</span>
@@ -507,7 +524,7 @@
 																														<div class="row"  id="portfolio">
 																																<div class="col-xs-12 col-sm-4 SaladCheese">
 																																		<div class="portfolio_single_content">
-																																				<img src="menu/prawn189.png" alt="title"/>
+																																				<img src="menu/prawn189.jpg" alt="title"/>
 																																				<div>
 																																						<a>กุ้งอบชีส</a>
 																																						<span>ราคา 189 บาท</span>
@@ -519,7 +536,7 @@
 																																<div class="row"  id="portfolio">
 																																		<div class="col-xs-12 col-sm-4 SaladCheese">
 																																				<div class="portfolio_single_content">
-																																						<img src="menu/sal89.png" alt="title"/>
+																																						<img src="menu/sal89.jpg" alt="title"/>
 																																						<div>
 																																								<a>ยำแซ่บแซลม่อน</a>
 																																								<span>ราคา 89 บาท</span>
@@ -562,7 +579,7 @@
 										</div>
 
 
-	                <!-- End page header
+	                <!-- End page header -->
 
 
 
@@ -570,13 +587,44 @@
 												include "new_gallery.php";
 									?>
 
-
-
-
-
 								</div>
 						</section>
 						<!-- End testimonials -->
+
+
+
+												<!-- Begin testimonials -->
+												<section id="videos-section">
+														<div id="videos-trigger" class="videos text-white parallax" data-stellar-background-ratio="0.5">
+																<div class="cover"></div>
+																<!-- Begin page header-->
+																<div class="page-header-wrapper">
+																		<div class="container">
+																				<div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
+																						<br><br><br><br><br><h2><b style="color:#FD6601;">videos</b></h2>
+																					  <div class="devider"></div>
+																				</div>
+																		</div>
+																</div>
+
+
+							                <!-- End page header -->
+
+
+															<!--- facebook video -->
+															 <center><div class="fb-video" data-href="https://web.facebook.com/urbanstreet101/videos/975541989219423/" data-width="600" data-show-text="false"><blockquote cite="https://www.facebook.com/urbanstreet101/videos/975541989219423/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/urbanstreet101/videos/975541989219423/"></a><p></p>Posted by <a href="https://www.facebook.com/urbanstreet101/">Urban Street</a> on Tuesday, April 5, 2016</blockquote></div></center>
+
+															 <br>
+
+															 <center>
+																 	<div class="fb-video" data-href="https://www.facebook.com/urbanstreet101/videos/996510193789269/" data-width="600" data-show-text="false"><blockquote cite="https://www.facebook.com/urbanstreet101/videos/996510193789269/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/urbanstreet101/videos/996510193789269/"></a><p></p>Posted by <a href="https://www.facebook.com/urbanstreet101/">Urban Street</a> on Monday, May 9, 2016</blockquote></div>
+															 </center>
+
+
+														 <br><br>
+													 </div>
+												</section>
+												<!-- End testimonials -->
 
 
 
@@ -701,6 +749,31 @@
 																	 </b></li>
 
 
+																	 <div class="hidden-md hidden-lg">
+																	 <center>
+																		 <li><div
+																			class="fb-like"
+																			data-share="true"
+																			data-width="450"
+																			data-show-faces="true">
+																		</div></li>
+																	</center>
+																	</div>
+
+
+																	<div class="hidden-xs hidden-sm">
+
+																			<li><div
+																						class="fb-like"
+																						data-share="true"
+																						data-width="450"
+																						data-show-faces="true">
+																			</div></li>
+
+																	</div>
+
+
+
 
 
 
@@ -792,6 +865,17 @@
 		<script async defer
 			src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAHysYyg9QnhKI_lAEp3JCzGtjveEcnqQw&callback=initMap">
 		</script>
+
+
+		<div id="fb-root"></div>
+			<script>(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=221634611607341";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+
 
     </body>
 
