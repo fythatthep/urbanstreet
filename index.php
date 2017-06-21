@@ -32,7 +32,7 @@
 		<!-- Skin CSS -->
 		<link rel="stylesheet" href="css/skin/cool-gray.css">
 
-
+<!--
 		<script language=JavaScript>
 				<!--
 				var message="ไม่อนุญาติให้บันทึกข้อความและรูปภาพนะครับ";
@@ -80,7 +80,7 @@
 				document.onmousedown=disableselect
 				document.onclick=reEnable
 				}
-</script>
+</script> -->
 
 
         <!-- <link rel="stylesheet" href="css/skin/ice-blue.css"> -->
@@ -99,7 +99,7 @@
 	</head>
 
     <body data-spy="scroll" data-target="#main-navbar">
-        <div class="page-loader"></div>  <!-- Display loading image while page loads -->
+        
     	<div class="body">
 
             <!--========== BEGIN HEADER ==========-->
@@ -821,7 +821,7 @@
 
 															<!-- Delivery -->
 															<center>
-															
+
 																<br>
 																  <div class="hidden-md hidden-lg">
 																    <img src="menu/deli2.jpg"/>
