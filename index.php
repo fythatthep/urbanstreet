@@ -4,11 +4,11 @@
 
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>URBAN STREET</title>
+		<title>Urban Street สเต็กถาดปราบเซียน</title>
 		<link rel="shortcut icon" href="images/favicon.ico">
-		<meta name="description" content="Unika - Responsive One Page HTML5 Template">
-		<meta name="keywords" content="HTML5, Bootsrtrap, One Page, Responsive, Template, Portfolio" />
-		<meta name="author" content="imransdesign.com">
+		<meta name="description" content="Urban Street">
+		<meta name="keywords" content="Urban Street" />
+
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,6 +32,56 @@
 		<!-- Skin CSS -->
 		<link rel="stylesheet" href="css/skin/cool-gray.css">
 
+<!--
+		<script language=JavaScript>
+				<!--
+				var message="ไม่อนุญาติให้บันทึกข้อความและรูปภาพนะครับ";
+
+				function clickIE4(){
+				if (event.button==2){
+				alert(message);
+				return false;
+				}
+				}
+
+				function clickNS4(e){
+				if (document.layers||document.getElementById&&!document.all){
+				if (e.which==2||e.which==3){
+				alert(message);
+				return false;
+				}
+				}
+				}
+
+				if (document.layers){
+				document.captureEvents(Event.MOUSEDOWN);
+				document.onmousedown=clickNS4;
+				}
+				else if (document.all&&!document.getElementById){
+				document.onmousedown=clickIE4;
+				}
+
+				document.oncontextmenu=new Function("alert(message);return false")
+
+				// -->
+				</script>
+				<script language="JavaScript1.2">
+				//Disable select-text script (IE4 , NS6 )
+				function disableselect(e){
+				return false
+				}
+				function reEnable(){
+				return true
+				}
+				//if IE4
+				document.onselectstart=new Function ("return false")
+				//if NS6
+				if (window.sidebar){
+				document.onmousedown=disableselect
+				document.onclick=reEnable
+				}
+</script> -->
+
 
         <!-- <link rel="stylesheet" href="css/skin/ice-blue.css"> -->
         <!-- <link rel="stylesheet" href="css/skin/summer-orange.css"> -->
@@ -49,7 +99,7 @@
 	</head>
 
     <body data-spy="scroll" data-target="#main-navbar">
-        <div class="page-loader"></div>  <!-- Display loading image while page loads -->
+        
     	<div class="body">
 
             <!--========== BEGIN HEADER ==========-->
@@ -83,9 +133,9 @@
 
                             <li><a class="page-scroll" href="#porfolio-section">Menu</a></li>
 														<li><a class="page-scroll" href="#testimonial-section">Gallery</a></li>
-														<li><a class="page-scroll" href="#videos-section">Videos</a></li>
+														<li><a class="page-scroll" href="#videos-section">Promotion & Delivery</a></li>
                             <li><a class="page-scroll" href="#social-section"><div class="hidden-xs hidden-sm">Join us</div></a></li>
-                            <li><a class="page-scroll" href="#contact-section">Contact</a></li>
+                            <li><a class="page-scroll" href="#contact-section">Contact & Feedback</a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                   </div><!-- /.container -->
@@ -272,7 +322,11 @@
                                             <li><a href="#porfolio_menu" data-filter=".Steak">Steak</a></li>
                                             <li><a href="#porfolio_menu" data-filter=".Burger" >Burger</a></li>
                                             <li><a href="#porfolio_menu" data-filter=".Pasta">Pasta</a></li>
-                                            <li><a href="#porfolio_menu" data-filter=".SaladCheese">Salad and Cheese</a></li>
+
+																						<li><a href="#porfolio_menu" data-filter=".Sausage">Sausage</a></li>
+																						<li><a href="#porfolio_menu" data-filter=".Potatoes">Mashed Potatoes</a></li>
+
+                                            <li><a href="#porfolio_menu" data-filter=".SaladCheese">Salad & Cheese & Garlic</a></li>
 
                                         </ul>
                                     </div>
@@ -316,13 +370,37 @@
 																									</div>
 
 
+																								<div class="row"  id="portfolio">
+																											<div class="col-xs-12 col-sm-4 Steak">
+																												<div class="portfolio_single_content">
+																														<img src="menu/aus189.jpg" alt="title"/>
+																												   <div>
+																														<a>สเต็กเนื้อออสเตรเลีย</a>
+																													  <span>ราคา 189 บาท</span>
+																												</div>
+																										</div>
+																								</div>
+
+
+																							<div class="row"  id="portfolio">
+																										<div class="col-xs-12 col-sm-4 Steak">
+																											<div class="portfolio_single_content">
+																													<img src="menu/beeftbone189.jpg" alt="title"/>
+																												 <div>
+																													<a>สเต็กเนื้อทีโบน</a>
+																													<span>ราคา 189 บาท</span>
+																											</div>
+																									</div>
+																							</div>
+
+
 																									<div class="row"  id="portfolio">
 																											<div class="col-xs-12 col-sm-4 Steak">
 																													<div class="portfolio_single_content">
-																															<img src="menu/pork119.jpg" alt="title"/>
+																															<img src="menu/porkchop139.jpg" alt="title"/>
 																															<div>
-																																	<a>สเต็กหมูคุโรบุตะ</a>
-																																	<span>ราคา 119 บาท</span>
+																																	<a>พอร์คช๊อพ</a>
+																																	<span>ราคา 139 บาท</span>
 																															</div>
 																													</div>
 																											</div>
@@ -331,10 +409,10 @@
 																											<div class="row"  id="portfolio">
 																													<div class="col-xs-12 col-sm-4 Steak">
 																															<div class="portfolio_single_content">
-																																	<img src="menu/chick89.jpg" alt="title"/>
+																																	<img src="menu/chick79.jpg" alt="title"/>
 																																	<div>
 																																			<a>สเต็กไก่พริกไทยดำ</a>
-																																			<span>ราคา 89 บาท</span>
+																																			<span>ราคา 79 บาท</span>
 																																	</div>
 																															</div>
 																													</div>
@@ -470,11 +548,106 @@
 																																		</div>
 																																</div>
 																														</div>
+
+																														<div class="row"  id="portfolio">
+																																<div class="col-xs-12 col-sm-4 Pasta">
+																																		<div class="portfolio_single_content">
+																																				<img src="menu/pooandbecon139.jpg" alt="title"/>
+																																				<div>
+																																						<a>พาสต้าผัดพริกแห้งเนื้อปูและเบคอนกรอบ</a>
+																																						<span>ราคา 139 บาท</span>
+																																				</div>
+																																		</div>
+																																</div>
+
+																																<div class="row"  id="portfolio">
+																																		<div class="col-xs-12 col-sm-4 Pasta">
+																																				<div class="portfolio_single_content">
+																																						<img src="menu/pbeef139.jpg" alt="title"/>
+																																						<div>
+																																								<a>พาสต้าโบลองเนส เนื้อ / หมู</a>
+																																								<span>ราคา 139 บาท</span>
+																																						</div>
+																																				</div>
+																																		</div>
+
+
+																																		<div class="row"  id="portfolio">
+																																				<div class="col-xs-12 col-sm-4 Pasta">
+																																						<div class="portfolio_single_content">
+																																								<img src="menu/tomyum139.jpg" alt="title"/>
+																																								<div>
+																																										<a>พาสต้าต้มยำทะเล</a>
+																																										<span>ราคา 139 บาท</span>
+																																								</div>
+																																						</div>
+																																				</div>
+
+
+
+
 																							<!--- Pasta --->
+
+
+																							<!--- sausage --->
+																						<div class="row"  id="portfolio">
+																								<div class="col-xs-12 col-sm-4 Sausage">
+																										<div class="portfolio_single_content">
+																												<img src="menu/sau195.jpg" alt="title"/>
+																												<div>
+																														<a>ไส้กรอกเยอรมันรวม</a>
+																														<span>ราคา 195 บาท</span>
+																												</div>
+																										</div>
+																								</div>
+
+																								<!--- sausage --->
+
+
+
+																							<!--- potatoes --->
+																						<div class="row"  id="portfolio">
+																								<div class="col-xs-12 col-sm-4 Potatoes">
+																										<div class="portfolio_single_content">
+																												<img src="menu/mpche69.jpg" alt="title"/>
+																												<div>
+																														<a>มันบดราดซอสช็อกโกเบอร์รี</a>
+																														<span>ราคา 69 บาท</span>
+																												</div>
+																										</div>
+																								</div>
+
+																								<div class="row"  id="portfolio">
+																										<div class="col-xs-12 col-sm-4 Potatoes">
+																												<div class="portfolio_single_content">
+																														<img src="menu/mptra69.jpg" alt="title"/>
+																														<div>
+																																<a>มันบดราดซอสเห็ดทรัฟเฟิล</a>
+																																<span>ราคา 69 บาท</span>
+																														</div>
+																												</div>
+																										</div>
+
+
+
+																								<!--- potatoes --->
+
 
 
 
 																							<!--- salad--->
+																							<div class="row"  id="portfolio">
+																									<div class="col-xs-12 col-sm-4 SaladCheese">
+																											<div class="portfolio_single_content">
+																													<img src="menu/cecar89.jpg" alt="title"/>
+																													<div>
+																															<a>ซีซาส์สลัด</a>
+																															<span>ราคา 89 บาท</span>
+																													</div>
+																											</div>
+																									</div>
+
+
 																						<div class="row"  id="portfolio">
 																								<div class="col-xs-12 col-sm-4 SaladCheese">
 																										<div class="portfolio_single_content">
@@ -524,6 +697,18 @@
 																														<div class="row"  id="portfolio">
 																																<div class="col-xs-12 col-sm-4 SaladCheese">
 																																		<div class="portfolio_single_content">
+																																				<img src="menu/chickham95.jpg" alt="title"/>
+																																				<div>
+																																						<a>ไก่อบชีสแฮม</a>
+																																						<span>ราคา 95 บาท</span>
+																																				</div>
+																																		</div>
+																																</div>
+
+
+																														<div class="row"  id="portfolio">
+																																<div class="col-xs-12 col-sm-4 SaladCheese">
+																																		<div class="portfolio_single_content">
 																																				<img src="menu/prawn189.jpg" alt="title"/>
 																																				<div>
 																																						<a>กุ้งอบชีส</a>
@@ -531,6 +716,17 @@
 																																				</div>
 																																		</div>
 																																</div>
+
+																																<div class="row"  id="portfolio">
+																																		<div class="col-xs-12 col-sm-4 SaladCheese">
+																																				<div class="portfolio_single_content">
+																																						<img src="menu/kgarlic139.jpg" alt="title"/>
+																																						<div>
+																																								<a>กุ้งกระเทียม</a>
+																																								<span>ราคา 139 บาท</span>
+																																						</div>
+																																				</div>
+																																		</div>
 
 
 																																<div class="row"  id="portfolio">
@@ -543,6 +739,17 @@
 																																						</div>
 																																				</div>
 																																		</div>
+
+																																		<div class="row"  id="portfolio">
+																																				<div class="col-xs-12 col-sm-4 SaladCheese">
+																																						<div class="portfolio_single_content">
+																																								<img src="menu/tuna95.jpg" alt="title"/>
+																																								<div>
+																																										<a>ทูน่านิซซัวสลัด</a>
+																																										<span>ราคา 95 บาท</span>
+																																								</div>
+																																						</div>
+																																				</div>
 
 
 																								<!--- salad--->
@@ -601,7 +808,7 @@
 																<div class="page-header-wrapper">
 																		<div class="container">
 																				<div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-																						<br><br><br><br><br><h2><b style="color:#FD6601;">videos</b></h2>
+																						<br><br><br><br><br><h2><b style="color:#FD6601;">Promotion & Delivery</b></h2>
 																					  <div class="devider"></div>
 																				</div>
 																		</div>
@@ -611,14 +818,26 @@
 							                <!-- End page header -->
 
 
-															<!--- facebook video -->
-															 <center><div class="fb-video" data-href="https://web.facebook.com/urbanstreet101/videos/975541989219423/" data-width="600" data-show-text="false"><blockquote cite="https://www.facebook.com/urbanstreet101/videos/975541989219423/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/urbanstreet101/videos/975541989219423/"></a><p></p>Posted by <a href="https://www.facebook.com/urbanstreet101/">Urban Street</a> on Tuesday, April 5, 2016</blockquote></div></center>
 
-															 <br>
+															<!-- Delivery -->
+															<center>
 
-															 <center>
-																 	<div class="fb-video" data-href="https://www.facebook.com/urbanstreet101/videos/996510193789269/" data-width="600" data-show-text="false"><blockquote cite="https://www.facebook.com/urbanstreet101/videos/996510193789269/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/urbanstreet101/videos/996510193789269/"></a><p></p>Posted by <a href="https://www.facebook.com/urbanstreet101/">Urban Street</a> on Monday, May 9, 2016</blockquote></div>
-															 </center>
+																<br>
+																  <div class="hidden-md hidden-lg">
+																    <img src="menu/deli2.jpg"/>
+																	</div>
+
+																	<div class="hidden-xs hidden-sm">
+																	  <img src="menu/delilarge.jpg" height="200" width="500"/>
+																	</div>
+
+																<br>
+																<br>
+																<img src="menu/deli.jpg"/>
+																<br>
+
+															</center>
+
 
 
 														 <br><br>
@@ -737,7 +956,18 @@
 
 																	 <li><b style="color:#FD6601;">&nbsp; ** ขณะนี้ลานจอดรถถาวรยังปิดปรับปรุง ขอให้ท่านใช้ลานจอดรถชั่วคราวไปก่อน **</b></li>
 
+<div class="hidden-xs hidden-sm">
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpPltLGkuIpu-tZRWs5H9lvXW5pOa0D86FBxpZyMIU8LOn_w/viewform?embedded=true" width="700" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</div>
 
+
+<div class="hidden-md hidden-lg">
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpPltLGkuIpu-tZRWs5H9lvXW5pOa0D86FBxpZyMIU8LOn_w/viewform?embedded=true" width="100%" height="150" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</div>
+
+
+																	 <br>
+																	 <br>
 																	 <br>
 
 																	 <li><b style="color:white;">
@@ -769,7 +999,7 @@
 																						data-width="450"
 																						data-show-faces="true">
 																			</div></li>
-																			
+
 																	</div>
 
 
